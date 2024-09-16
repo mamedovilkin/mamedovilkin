@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ilkin Mamedov.
+- 👀 I’m interested in Android Development.
+- 🌱 I’m currently learning foundation of Android Development.
+- 📫 If you wanna reach me, contact me on Telegram: t.me/mamedovilkin.
+- 😄 Pronouns: He/Him/His/Himself.
