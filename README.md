@@ -4,7 +4,7 @@
 - 🚀 Currently developing **pet projects** to sharpen my skills  
 - 🌱 Always eager to learn and grow as a developer  
 - 📫 Feel free to reach out to me on Telegram: [t.me/mamedovilkin](https://t.me/mamedovilkin)  
-- 🌐 Check out my website: [mamedovilkin.github.io](https://mamedovilkin.github.io/)  
+- 🌐 Check out my website: [ilkinmamedov.com](https://ilkinmamedov.com/)  
 - 😄 Pronouns: He/Him/His/Himself  
 
 # 🛠️ Skills & Technologies
